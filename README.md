@@ -62,7 +62,3 @@ This will create three HTML files:
 ## Author
 
 Evan Strasdin
-
-## Note
-
-This implementation intentionally avoids external imports for grading purposes, resulting in a self-contained codebase with comprehensive documentation.
