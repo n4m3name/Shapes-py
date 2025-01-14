@@ -1,2 +1,2 @@
 # Shapes-py
-Python project for SENG265: Software Methods at UVic
+Assignment 4 for SENG265: Software Methods at UVic
